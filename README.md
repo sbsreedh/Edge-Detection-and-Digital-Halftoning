@@ -16,15 +16,8 @@ In this repository I implement Edge Detection Techniques : Sobel Edge Detector, 
 <em>Y gradient of the Image</em>
 <img src="images/Y-gradient.png"/>
 
-.center[
-
-![My image](https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
-
-.caption[
-**Fig. 1:** Image caption
-]
-
-]
+<img src="images/Original Image.png" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
 
 
 
