@@ -17,7 +17,7 @@ In this repository I implement Edge Detection Techniques : Sobel Edge Detector, 
 <img src="images/Y-gradient.png"/>
 
 <img src="images/Original Image.png" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+	title="A cute kitten" width="200" height="200" />
 
 
 
