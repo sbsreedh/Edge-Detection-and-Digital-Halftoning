@@ -16,7 +16,8 @@ In this repository I implement Edge Detection Techniques : Sobel Edge Detector, 
 <!-- <em>Y gradient of the Image</em> -->
 <!-- <img src="images/Y-gradient.png"/> -->
 <img src="images/Sobel.png"/>
-Fig: Sobel Edge Detector
+
+<img src="images/SobelOut.png"/>
 
 
 
