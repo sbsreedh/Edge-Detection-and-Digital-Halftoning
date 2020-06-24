@@ -7,15 +7,15 @@ In this repository I implement Edge Detection Techniques : Sobel Edge Detector, 
 
 
 
-
-<img src="images/Original Image.png" alt="Original Image">
 <em>Original Image</em>
+<img src="images/Original Image.png" alt="Original Image">
 
-<img src="images/X-gradient.png"/>
 <em>X gradient of the Image</em>
+<img src="images/X-gradient.png"/>
 
-<img src="images/Y-gradient.png"/>
 <em>Y gradient of the Image</em>
+<img src="images/Y-gradient.png"/>
+
 
 
 
