@@ -15,8 +15,8 @@ In this repository I implement Edge Detection Techniques : Sobel Edge Detector, 
 
 <!-- <em>Y gradient of the Image</em> -->
 <!-- <img src="images/Y-gradient.png"/> -->
-
-<img src="images/Original Image.png" title="All" >
+<img src="http://sparkandshine.net/wordpress/wp-content/uploads/2016/02/dominating_sets_example2.png" alt="dominating_sets_example2"/>
+*Fig. 2: The minimum dominating set of a graph*
 
 
 
