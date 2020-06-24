@@ -4,12 +4,12 @@ In this repository I implement Edge Detection Techniques : Sobel Edge Detector, 
 
 ## Sobel Edge Detector:
 
-Original Image:
+
 <img src="images/Original Image.png"/>
 <em>Original Image</em>
-X-Gradient Image:
+
 <img src="images/X-gradient.png"/>
-Y-Gradient Image:
+
 <img src="images/Y-gradient.png"/>
 
 
