@@ -7,8 +7,9 @@ In this repository I implement Edge Detection Techniques : Sobel Edge Detector, 
 
 
 ![Original Image]("images/Original Image.png")
-<img src="images/Original Image.png"alt="foo bar" title="title"/>
-<em>Original Image</em>
+<!-- <img src="images/Original Image.png" alt="foo bar" title="title"/> -->
+<img src="images/Original Image.png" alt="Original Image">
+<em>The Amazon Rainforest contains a multitude of species and is vital to the Earth's survival.</em>
 
 <img src="images/X-gradient.png"/>
 
